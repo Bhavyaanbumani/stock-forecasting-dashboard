@@ -1,3 +1,8 @@
+![Dashboard Screenshot](Screenshot.png)
+
+# stock-forecasting-dashboard
+An interactive Streamlit dashboard for forecasting stock prices using ARIMA, SARIMA, Prophet, and LSTM models. Visualizes trends, volume, volatility, and provides 30-day forecasts with evaluation metrics. Powered by yfinance, sklearn, keras, and more.
+
 # 📈 Multi-Model Stock Price Forecasting Dashboard
 
 This project is a **Streamlit-based interactive dashboard** that performs **stock price forecasting** using multiple machine learning and statistical models like ARIMA, SARIMA, Prophet, and LSTM.
